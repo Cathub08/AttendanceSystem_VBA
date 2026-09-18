@@ -5,14 +5,14 @@ Excel VBAで作成した勤怠管理システムです。
 出勤・退勤管理、月次レポート自動生成、CSV出力などの機能を備えています。
 
 ## 画面遷移図（簡易）
-![Flow]<img src=https://github.com/Cathub08/AttendanceSystem_VBA/blob/main/%E5%8B%A4%E6%80%A0%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0_v2.1/images/README/%E7%94%BB%E9%9D%A2%E9%81%B7%E7%A7%BB%E5%9B%B3.png　width="400">
+<img src=https://github.com/Cathub08/AttendanceSystem_VBA/blob/main/%E5%8B%A4%E6%80%A0%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0_v2.1/images/README/%E7%94%BB%E9%9D%A2%E9%81%B7%E7%A7%BB%E5%9B%B3.png　width="400">
 
 ## UI画像（サンプル値入り）
 ![ClockForm](https://github.com/Cathub08/AttendanceSystem_VBA/blob/main/%E5%8B%A4%E6%80%A0%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0_v2.1/images/README/ClockForm.png)
 
 ![EmployeeForm](https://github.com/Cathub08/AttendanceSystem_VBA/blob/main/%E5%8B%A4%E6%80%A0%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0_v2.1/images/README/EmployeeForm.png)
 
-![MainMenu]<img src=https://github.com/Cathub08/AttendanceSystem_VBA/blob/main/%E5%8B%A4%E6%80%A0%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0_v2.1/images/README/MainMenuForm.png　width="400">
+<img src=https://github.com/Cathub08/AttendanceSystem_VBA/blob/main/%E5%8B%A4%E6%80%A0%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0_v2.1/images/README/MainMenuForm.png　width="400">
 
 ![HistoryAllForm](https://github.com/Cathub08/AttendanceSystem_VBA/blob/main/%E5%8B%A4%E6%80%A0%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0_v2.1/images/README/HistoryAllForm.png)
 
