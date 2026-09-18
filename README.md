@@ -17,7 +17,7 @@ Excel VBAで作成した勤怠管理システムです。
 ![HistoryAllForm](https://github.com/Cathub08/AttendanceSystem_VBA/blob/main/%E5%8B%A4%E6%80%A0%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0_v2.1/images/README/HistoryAllForm.png)
 
 ## コード断片
-<img src="https://github.com/Cathub08/AttendanceSystem_VBA/blob/main/%E5%8B%A4%E6%80%A0%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0_v2.1/images/README/code.png" width="500">
+<img src="https://github.com/Cathub08/AttendanceSystem_VBA/blob/main/%E5%8B%A4%E6%80%A0%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0_v2.1/images/README/code.png" width="700">
 
 ## 使用技術
 - Excel VBA
