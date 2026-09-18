@@ -10,7 +10,7 @@ Excel VBAで作成した勤怠管理システムです。
 ## UI画像（サンプル値入り）
 ![ClockForm](https://github.com/Cathub08/AttendanceSystem_VBA/blob/main/%E5%8B%A4%E6%80%A0%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0_v2.1/images/README/ClockForm.png)
 
-![EmployeeForm](https://github.com/Cathub08/AttendanceSystem_VBA/blob/main/%E5%8B%A4%E6%80%A0%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0_v2.1/images/README/EmployeeForm.png)
+<img src="https://github.com/Cathub08/AttendanceSystem_VBA/blob/main/%E5%8B%A4%E6%80%A0%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0_v2.1/images/README/EmployeeForm.png" width="500">
 
 <img src="https://github.com/Cathub08/AttendanceSystem_VBA/blob/main/%E5%8B%A4%E6%80%A0%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0_v2.1/images/README/MainMenuForm.png" width="600">
 
