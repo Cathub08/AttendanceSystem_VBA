@@ -26,6 +26,6 @@ Excel VBAで作成した勤怠管理システムです。
 - テストケース設計
 
 ## フォルダ構成
-/src      … コード一式（Classes、Modules、UserForms）
-/docs     … TestCase・システム紹介・バージョン管理メモ・仕様書（簡易版）
+/src      … コード一式（Classes、Modules、UserForms）  
+/docs     … TestCase・システム紹介・バージョン管理メモ・仕様書（簡易版）  
 /images   … UI画像（UI_Sample・UI_Empty）
