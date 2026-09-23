@@ -29,3 +29,8 @@ Excel VBAで作成した勤怠管理システムです。
 /src      … コード一式（Classes、Modules、UserForms）  
 /docs     … TestCase・システム紹介・バージョン管理メモ・仕様書（簡易版）  
 /images   … UI画像（UI_Sample・UI_Empty）
+
+---
+
+## License
+このリポジトリは GNU GPL v3.0 ライセンスのもとで公開しています。
